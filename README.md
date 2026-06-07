@@ -1,6 +1,6 @@
 # Volve Field Production & Well Performance Analytics
 
-![Dashboard Overview](Outputs/Figures/executive_dashboard.png)
+![Dashboard Overview](Production-Well-Performance-Analytics-Using-Volve-Field-Data/Outputs/Figures/executive_dashboard.png)
 
 ## Project Overview
 
