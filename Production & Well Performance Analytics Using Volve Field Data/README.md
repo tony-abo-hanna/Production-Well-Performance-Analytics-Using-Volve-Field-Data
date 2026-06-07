@@ -107,8 +107,8 @@ Interactive Power BI dashboards were created for:
 ![Correlation Matrix](Outputs/Figures/operational_correlation_matrix.png)
 
 ## Repository Structure
-
-porosity-permeability-reservoir-characterization/
+```text
+production-&-well-performance-analytics-using-volve-field-data/
 │
 ├── data/
 │   ├── raw/
@@ -139,7 +139,7 @@ porosity-permeability-reservoir-characterization/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
-
+```
 ## How to Run
 
 1. Clone the repository
