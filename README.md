@@ -1,7 +1,6 @@
 # Volve Field Production & Well Performance Analytics
 
-![Dashboard Overview](Production-Well-Performance-Analytics-Using-Volve-Field-Data/Outputs/Figures/executive_dashboard.png)
-
+![Dashboard Overview](../Production & Well Performance Analytics Using Volve Field Data/Outputs/Figures/executive_dashboard.png)
 ## Project Overview
 
 This project analyzes production and operational data from the Volve Field dataset using Python and Power BI.
